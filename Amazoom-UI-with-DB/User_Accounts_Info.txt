@@ -1,0 +1,13 @@
+User 1 --------------------
+Email: testUser01@mail.com
+Password: Po123456_
+
+- created for testing purposes
+---------------------------
+
+User 2 -----------------------
+Email: Demo@demo.com
+Password: Demo123!
+
+--> Use this one for the demo.
+-------------------------------

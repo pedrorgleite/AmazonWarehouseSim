@@ -1,0 +1,12 @@
+ID,ItemName,Quantity,Client,Status
+12,Watch,1,Testing,Waiting for Delivery
+10,Heavy,1,Testing,Waiting for Delivery
+11,Paint Brush,1,Testing,Waiting for Delivery
+2,Infinity Gauntlet,1,Testing,Out for Delivery
+4,Shower Curtains,1,Testing,Out for Delivery
+3,Avacados,1,Testing,Out for Delivery
+5,Pencil,1,Testing,Out for Delivery
+8,Book,1,Testing,Out for Delivery
+6,Keyboard,1,Testing,Out for Delivery
+9,Kindle,1,Testing,Out for Delivery
+7,HElay,1,Testing,Out for Delivery

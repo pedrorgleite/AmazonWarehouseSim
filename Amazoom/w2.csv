@@ -1,0 +1,37 @@
+ID,Name,Quantity,Weight,Locations
+1,Desk,0,50,0.0.0.R
+2,Monitor,2,10,0.0.1.R
+3,Speaker,4,2,0.1.3.L
+4,Keychain,1,1,0.2.4.R
+5,Flashlight,4,2,0.3.4.L
+6,Pencil,3,1,0.3.2.R
+7,Headphones,6,3,0.4.0.L
+8,Valentines Day Card,4,1,0.4.0.R
+9,Clone Trooper,2,2,0.5.1.R
+10,IPhone,6,3,0.6.3.L
+11,Cellphone Case,7,1,0.7.2.R
+12,Keyboard,8,4,0.8.3.L
+13,Pillow,9,6,0.9.2.L
+14,Yeezies,5,2,0.10.3.R
+15,Trash Bin,1,7,1.0.0.R
+16,Mouse,3,1,1.0.1.R
+17,USB Cable,2,1,1.1.3.L
+18,Painting,4,10,1.2.4.R
+19,Window,3,25,1.3.4.L
+20,Java Tutorial,6,1,1.3.2.R
+21,Book,6,4,1.4.0.L
+22,Kindle,3,1,1.4.0.R
+23,The Office,1,1,1.5.1.R
+24,Barbie,1,2,1.6.3.L
+25,DE1-SOC,2,5,1.7.2.R
+26,Track Pants,3,2,1.8.3.L
+27,MatLab Subscription,4,1,2.0.0.R
+28,Pizza,3,2,2.0.1.R
+29,Paint Brush,5,2,2.1.3.L
+30,Kinder Surpise,12,1,2.2.4.R
+31,Chicken Nuggets,4,8,2.3.4.L
+32,Fossil,0,100,2.3.2.R
+33,Watch,2,1,2.4.0.L
+34,Infinity Gauntlet,3,20,2.4.0.R
+35,Matric: Reloaded,4,1,2.5.1.R
+36,Refridgerator,5,50,2.6.3.L
