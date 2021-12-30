@@ -1,6 +1,36 @@
 
 
-# Amazoom: Automated Warehouse Proposal
+### Please see the included PDFs complete systems documentation.
+
+### How to run the project on compile 
+
+This project is a single solution file that contains two seperate projects. Code used for the robots pathfinding was based upon the excellent repo https://github.com/SebLague/Pathfinding  
+
+There are indenpendent webservers for this system stored in each different project folder, and they MUST be run simultaneously in order for the simulation to start. If they are not both running, the server of the warehouse cannot communicate with the web server, and vise versa. 
+
+The following steps MUST be followed in order for the project to run. They are divided in these steps: 
+    
+    -Click on the solution file of Amazoom.sln
+    -Once the project is opened in Visual Studio, go to the Solution Explorer, then right click on the solution of the project and click on “Start Startup Projects.” 
+    -Click on “Multiple startup projects” and set the action of the two projects both to “Start”. Ensure the Amazoom is at the top and Amazoom-UI-with-DB is at the bottom. 
+    -Now, the two projects can be run simultaneously with each other, and the system is synchronized. You can start your simulation. 
+
+
+
+# Initial Project Readme
+
+
+---
+layout: project
+title:  Amazoom Automated Warehouse
+date:   2021-10-19 23:00:00
+authors: [C. Antonio Sánchez, Ali Mousavifar]
+categories: [project, automated warehouse]
+published: true
+
+---
+
+## Amazoom: Automated Warehouse Proposal
 
 For this course project, you will *design* and implement a *real-time simulation* of the system software that runs an automated warehouse.  You are responsible for producing a [design document](https://en.wikipedia.org/wiki/Software_design_description) that describes the system architecture and information flow for your automated warehouse design, as well as a multi-process, multi-threaded simulation of the software to prove to Amazoom that your design is safe, efficient, and will satisfy all their needs.
 
@@ -121,4 +151,3 @@ Include a network of warehouses, and improved client functionality.
 The individual warehouses should have some variability in terms of the items they hold. If an order cannot be fulfilled by a single warehouse, it should be split across multiple warehouses if possible.
 
 Clients should have the ability to query how many of an item is in stock, *reserve* an item if in stock (e.g. by adding it to cart), and to place an order.  Once items are reserved, the order should be guaranteed to be deliverable.
-
